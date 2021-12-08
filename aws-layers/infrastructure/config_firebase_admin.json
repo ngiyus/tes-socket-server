@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "raya-trade",
+  "private_key_id": "bc7505bdbf7cd83d067b815f805e9779e406989c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD0HkGOSbf8SFE8\n9kR1YHNm3cQnZenycKALJI1ygKWlZhwmu+PFrteJf5ZWakDZyiwqCiyipuVD1wsC\nQF6Zzvxlo3E4+ZHlIxmF/XGeiCmv0DMznrZTCfEHWomqA1pv/9SUbkdyiVdrHnLI\nMFoQW0ygED/gOb/zKjI1ZCSCA4IsmGuSCSRtURwdjS4Yr3y6BWTVGzXSdRUo5W9x\n8CdW8cA0jxpVS35aSHqw3+rcpqnZcnjKmFZQxcIWd4Wd8ZsDsRbbH1F/d5x8VQ4o\nOSP8aax2mJmgdTkQvsSlTCDmNsdBfltZGRP7svgxJW+KAAJ3yFmqyRkN6i5zDnj4\npISukvPBAgMBAAECggEACl6Q5K4yVNK+UylnkOgR/NcLlIwYYPhKXxDMWpZW+vCs\nflN1tlViAczf7h+lLa8gG0DLgrT1yQD83mmNLym++EMGHaBBw46/MD0q1uvkH+wH\nScB6kIpMAQbGMVjjPf3LKgspaSbG9iWQ5PqjT72uEoBAM1pGolnK8FBGufhTzqit\nTwecg3IcKm711sQKy7aMTaEeNrgZL2yFXw2CcetgOgmcV72rfZC4D4VsIbml+lOD\nAg5+WjdPPpMM+bB2pfol3m8AYP/NFKAd0ZWE+T7199cOAyPPuJ8Vele8Ifjzv248\nlQtwFMTypBpRkprAFA+Wf/Sycl9neb4vjgqsThf6cQKBgQD96W+KrGfkLUFej3aT\nqz0xrtPeqk+tNfgunz4iYTy08NzHCsBdKyp7sjcPHLfqDPyTNlcQvrxSke8O4S1L\nNyEkYVC8YCayBx+iCzN+8FPmz/fnV1FaYGUieKzp7O0ZwIz3I4O1PoQ/nprAQXW/\nLD6znmDBVAhIosADjzof8Jc80QKBgQD2IDOc3QuUETqywqsLangfusdXK/rQdDQw\nzETltKIRy7twv9TyV9qAwGSBo11dS1xgNpld1CQwLGzfBWvJREjUgauEVXJkvjIK\ny5bDnefOiCh15VtEBJkNzaFlMv8cvA67N9FCU8U7znaZJqhUG053dfogNdAAnjmd\nH5i4mMhD8QKBgH7NimfNq+CW/TNVIBmlBd1++s4TbdEJx9S4sBYJS4DtXMSGSQT+\nXqwBl1+TrwFS1PxLwfVZ28C8oo9iwvTyJjn944z/07NKvXB2eZQmPzBgoeRFhhpF\nU5yAeZIlQU+ACqYNdWQZQYBoG85xonUDipi3OoiyB6UGqi/c4mE7DLxRAoGBAM8O\nnB0VIM56CCWm+3ppIZGf8l91klWXzOhYkIWmhsnt2UyrNZyDKEE0mdkt9DeuVJJk\nnHWBKMiWNykQSHNTzOlqBT8ZG1mBYFwQlk8PIppvlYpJX5RDQfeIzIR0eIZV9xat\niJACJWWA9ek1ylqndkWtrLU4UDqU4ec7U6HIdoIhAoGBAMIEmSHerSJ95hiRQKGe\nBQtWLI0GmCQ0Q4xfgoaJ0FtOWCi5lcrhKYaba7QuDsmW1f97MkCqTCK8GbONQxKL\nesOpE7GU3zybYU3JKMjESBUVzx/cRTKNfFEapRTIgUkYsKzEizFTlSLYNPEUPSX/\ngFSWzr1UWu9YhjTsMdPmiF4Q\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-clmc1@raya-trade.iam.gserviceaccount.com",
+  "client_id": "109493706348703360180",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-clmc1%40raya-trade.iam.gserviceaccount.com"
+}

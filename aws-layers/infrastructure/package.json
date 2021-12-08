@@ -1,0 +1,14 @@
+{
+    "name": "@raya_rest_remaster/layers-infrastructure",
+    "author": "Reikaa Satsuki <danielarya185@gmail.com> (https://github.com/Satssuki)",
+    "license": "ISC",
+    "dependencies": {
+        "aws-sdk": "^2.1014.0",
+        "firebase-admin": "^9.12.0",
+        "ioredis": "^4.28.0",
+        "pg": "^8.7.1",
+        "request": "^2.88.2",
+        "request-promise-native": "^1.0.9",
+        "sequelize": "^6.6.5"
+    }
+}

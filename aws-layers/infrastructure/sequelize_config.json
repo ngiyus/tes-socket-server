@@ -1,0 +1,30 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Colacola1234",
+    "database": "rayatrade",
+    "host": "raya-trade-dev.cemlpjx8llaq.ap-southeast-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Colacola1234",
+    "database": "rayatrade",
+    "host": "raya-trade-dev.cemlpjx8llaq.ap-southeast-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "timescale_history": {
+    "username": "tsdbadmin",
+    "password": "w2ewsm10w3gk267p",
+    "database": "defaultdb",
+    "port": 27116,
+    "host": "rayatrade-dev-ts-ngiyus-4b7d.a.timescaledb.io",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+          "require": true,
+          "rejectUnauthorized": false
+        }
+    }
+  }
+}

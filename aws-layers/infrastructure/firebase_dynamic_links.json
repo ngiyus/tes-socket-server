@@ -1,0 +1,16 @@
+{
+    "apiKey": "AIzaSyAqbng5vKB2QUPykSgoONOjAqrDKqTRZeg",
+    "domainUriPrefix": "https://tesrayaoption.page.link",
+    "link": "https://www.tesrayaoption.com?reff=",
+    "androidInfo": {
+      "androidPackageName": "com.rayaoption.trade"
+    },
+	"socialMetaTagInfo": {
+		"socialTitle": "Raya Social",
+		"socialDescription": "Dengan Raya Social, Anda cukup menitipkan dana anda ke trader terbaik kami dan lihat uang anda berkembang!",
+        "socialImageLink": "https://elasticbeanstalk-ap-southeast-1-300821217956.s3-ap-southeast-1.amazonaws.com/otto_banner.png"
+    },
+	"suffix": {
+	    "option": "SHORT"
+	}
+}

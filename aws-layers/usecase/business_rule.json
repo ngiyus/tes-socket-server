@@ -1,0 +1,11 @@
+{
+    "minimal_withdraw_amount": {
+        "value": 100000
+    },
+    "limit_per_page": {
+        "value": 10
+    },
+    "internal_raya_number_account": {
+        "value": 8882211233
+    }
+}

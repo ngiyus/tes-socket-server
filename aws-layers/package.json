@@ -1,0 +1,12 @@
+{
+    "name": "@raya_rest_remaster/layers",
+    "author": "Reikaa Satsuki <danielarya185@gmail.com> (https://github.com/Satssuki)",
+    "license": "ISC",
+    "dependencies": {},
+    "scripts": {
+        "build": "npm run build:infrastructure && npm run build:domain && npm run build:usecase",
+        "build:infrastructure": "cd infrastructure && npm install",
+        "build:domain": "cd domain && npm install",
+        "build:usecase": "cd usecase && npm install"
+    }
+}

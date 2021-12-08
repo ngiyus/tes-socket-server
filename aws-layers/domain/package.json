@@ -1,0 +1,8 @@
+{
+    "name": "@raya_rest_remaster/layers-domain",
+    "author": "Reikaa Satsuki <danielarya185@gmail.com> (https://github.com/Satssuki)",
+    "license": "ISC",
+    "dependencies": {
+        "fastest-validator": "^1.11.1"
+    }
+}
